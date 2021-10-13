@@ -1,0 +1,10 @@
+.single-service{
+    background-color: darkseagreen;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.single-service img{
+    border-radius: 10px;
+    border: 3px solid white;
+}

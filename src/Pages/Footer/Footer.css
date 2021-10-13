@@ -1,0 +1,20 @@
+.footer ul{
+list-style: none;
+display: flex;
+line-height: 50px;
+margin-top: -15px;
+
+}
+
+.footer ul li{
+    margin-right: 20px;
+}
+
+.footer{
+    height: 200px;
+    display: grid;
+    place-content: center;
+    background-color: darkseagreen;
+    margin: auto;
+   
+}
