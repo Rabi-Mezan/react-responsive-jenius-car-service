@@ -12,7 +12,7 @@ const Experts = () => {
             .then(data => setExperts(data));
     }, [])
     return (
-        <div>
+        <div id='experts'>
             <h1 className='fw-bold text-info mt-2 mb-5'>Our Experts</h1>
             <div className='experts-container'>
                 {
